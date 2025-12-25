@@ -30,11 +30,17 @@ The dataset includes information such as:
 ________________________________________
 ## Features & Highlights
 ✔ KPI cards displaying total crimes and resolution rate
+
 ✔ Year-wise crime comparison with growth/decline indicators
+
 ✔ Heatmap analysis showing crime intensity by month & weekday
+
 ✔ Time-range analysis to identify high-risk hours
+
 ✔ City-level geospatial visualization using map integration
+
 ✔ Monthly crime trend line to detect seasonality
+
 ✔ Story-driven layout for easy interpretation
 ________________________________________
 ## Key Insights
